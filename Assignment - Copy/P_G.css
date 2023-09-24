@@ -1,0 +1,57 @@
+* img{height: 250px;
+width: auto;
+border-radius: 500px;
+box-sizing: border-box;
+border: 3.8px solid;
+}
+body{
+    background-image: url(39.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 30px;
+    padding-right: 200px
+
+}
+p{
+    font-size: 70px;
+    font-family: sans-serif;
+    font-weight:900;
+    color: coral;
+    text-align: center;
+
+}
+
+   #mySidenav a {
+    position: fixed;
+    left: -200px;
+    transition: 0.3s, opacity 0.5ms;
+    padding: 15px;
+    width: 259px;
+    text-decoration: none;
+    font-size: 59px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+    opacity: 0.45;  
+  }
+  
+  #mySidenav a:hover {
+    left: 0;
+    opacity: 0.95;
+  }
+  
+  #Home {
+    top: 10px;
+    background-color: red
+    ;
+  }
+  
+  #Images {
+    top: 125px;
+    background-color: green;
+  }
+  .pictures{padding-top: 30px;
+  padding-right: 200px;}
+  
+
+  
